@@ -1,3 +1,5 @@
+__pycache__
+
 # env
 env/
 
@@ -7,4 +9,7 @@ env/
 
 # logs
 *.log
+
+# config
+config.ini
 
