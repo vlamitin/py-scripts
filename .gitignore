@@ -1,0 +1,10 @@
+# env
+env/
+
+# ide
+.idea/
+*.iml
+
+# logs
+*.log
+
