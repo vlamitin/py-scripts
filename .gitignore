@@ -12,4 +12,10 @@ env/
 
 # config
 config.ini
+*credentials.json
 
+# notebook jupyter
+*.ipynb
+.ipynb_checkpoints
+
+token.pickle
